@@ -1,0 +1,94 @@
+{
+  "diario": [
+    {
+      "nome": "Reflexao sobre o dia",
+      "valor": 50,
+      "data": "2024-11-09",
+      "emocao": "Tranquilidade",
+      "sentimentos": "Alivio, gratidao",
+      "observacoes": "Meditacao focada no controle de estresse.",
+      "id": "1"
+    },
+    {
+      "nome": "Sessao de terapia",
+      "valor": 100,
+      "data": "2024-11-10",
+      "emocao": "Alivio",
+      "sentimentos": "Inseguranca, medo",
+      "observacoes": "Sessao com terapeuta para lidar com ansiedade.",
+      "id": "2"
+    },
+    {
+      "nome": "Meditacao mindfulness",
+      "valor": 30,
+      "data": "2024-11-11",
+      "emocao": "Paz",
+      "sentimentos": "Foco, serenidade",
+      "observacoes": "Foco na respiraÃ§Ã£o e atenÃ§Ã£o plena.",
+      "id": "3"
+    },
+    {
+      "nome": "Leitura de livro motivacional",
+      "valor": 40,
+      "data": "2024-11-12",
+      "emocao": "Motivação",
+      "sentimentos": "Inspiração, entusiasmo",
+      "observacoes": "Leitura de 'O poder do hábito'.",
+      "id": "4"
+    },
+    {
+      "nome": "Caminhada ao ar livre",
+      "valor": 20,
+      "data": "2024-11-13",
+      "emocao": "Revigorante",
+      "sentimentos": "Alegria, energia",
+      "observacoes": "Caminhada de 30 minutos no parque.",
+      "id": "5"
+    },
+    {
+      "nome": "Sessao de yoga",
+      "valor": 60,
+      "data": "2024-11-14",
+      "emocao": "Equilibrada",
+      "sentimentos": "Relaxe, flexibilidade",
+      "observacoes": "Yoga focada em alongamento e respiração.",
+      "id": "6"
+    },
+    {
+      "nome": "Acompanhamento com nutricionista",
+      "valor": 80,
+      "data": "2024-11-15",
+      "emocao": "Saudável",
+      "sentimentos": "Confiança, satisfação",
+      "observacoes": "Consulta para melhorar alimentação.",
+      "id": "7"
+    },
+    {
+      "nome": "Planejamento semanal",
+      "valor": 30,
+      "data": "2024-11-16",
+      "emocao": "Organizado",
+      "sentimentos": "Confiança, clareza",
+      "observacoes": "Planejamento de atividades da semana.",
+      "id": "8"
+    },
+    {
+      "nome": "Descanso e recuperacao",
+      "valor": 10,
+      "data": "2024-11-18",
+      "emocao": "Descanso",
+      "sentimentos": "Relaxamento, renovaÃ§Ã£o",
+      "observacoes": "Soneca para recuperaÃ§Ã£o de energia.",
+      "id": "10"
+    },
+    {
+      "id": "d7e2",
+      "nome": "Teste",
+      "valor": 10,
+      "data": "01-01-2000",
+      "emocao": "Feliz",
+      "sentimentos": "Felicidade",
+      "observacoes": "Obs"
+    }
+  ]
+}
